@@ -1,3 +1,8 @@
 {
-    
+    "version": "0.8.3",
+    "description": "A tool to help provision a fresh OS with the packages and configuration (dotfiles) you need to become productive again.",
+    "homepage": "https://www.comtrya.dev/",
+    "license": "MIT",
+    "url": "https://github.com/comtrya/comtrya/releases/download/v0.8.3/comtrya-x86_64-pc-windows-msvc.exe#/comtrya.exe",
+    "bin": "comtrya.exe"
 }
